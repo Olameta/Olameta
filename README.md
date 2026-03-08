@@ -1,13 +1,23 @@
-## Abdussomad Olayiwola — Python Developer
+# Hi, I'm Abdussomad Olayiwola 👋
 
-I build real-world software systems from healthcare management 
-to ML-powered prediction tools.
+Python Developer & Data Analyst based in Nigeria.
 
-**What I can build for you:**
-- Custom management systems (healthcare, education, logistics)
-- Data analysis & visualization (Python, Pandas, Matplotlib)
-- Machine learning models for prediction & automation
-- Lightweight tools & scripts to automate repetitive tasks
+I turn messy datasets into clear insights — using Python, Pandas, 
+and Matplotlib to help businesses and researchers make better decisions.
 
-📫 olayiwolaabdussomad@gmail.com
-💼 Open to freelance projects
+## What I work with
+- **Data Analysis & Cleaning** — Pandas, NumPy, Excel
+- **Data Visualization** — Matplotlib, Seaborn
+- **Machine Learning** — Scikit-learn, predictive modeling
+- **Database & ETL** — SQLite, data pipelines, Python scripts
+
+## Featured Projects
+- 🏥 [Hospital Management System](https://github.com/Olameta/Hospital-Appointment-Patient-Management-System) — Python · SQLite · Gradio
+- 🌾 Farmer Assistance Prediction — ML model for agricultural decision support
+- 🦠 COVID-19 Data Analysis — Exploratory analysis & visualization with Python
+
+## Open to freelance work
+If you have data that needs cleaning, analyzing, or visualizing — let's talk.
+
+📧 olayiwolaabdussomad@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/abdussomad-olayiwola-7b66a8245)
