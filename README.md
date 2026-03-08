@@ -2,7 +2,7 @@
 
 Python Developer & Data Analyst based in Nigeria.
 
-I turn messy datasets into clear insights — using Python, Pandas, 
+I turn messy datasets into clear insights, using Python, Pandas, 
 and Matplotlib to help businesses and researchers make better decisions.
 
 ## What I work with
